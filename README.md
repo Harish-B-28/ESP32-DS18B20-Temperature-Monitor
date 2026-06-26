@@ -1,6 +1,3 @@
-# ESP32-DS18B20-Temperature-Monitor-with-Blynk-Iot 
-Real-time temperature monitoring using the DS18B20 digital sensor and ESP32 with Arduino IDE and Blynk iot platform.
-
 # 🌡️ ESP32 IoT Temperature Monitoring using DS18B20 and Blynk
 
 An IoT-based embedded systems project that demonstrates real-time temperature monitoring using an ESP32 Development Board, the DS18B20 digital temperature sensor, and the Blynk IoT platform.
