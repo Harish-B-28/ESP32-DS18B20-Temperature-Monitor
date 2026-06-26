@@ -8,7 +8,7 @@
 #include <DallasTemperature.h>
 
 // WiFi Credentials (Phone Hotspot)
-char ssid[] = "YOUR_WIFI_NAME";
+char ssid[] = "WIFI_NAME";
 char pass[] = "WIFI_PASSWORD";
 
 // DS18B20 connected to GPIO 25
