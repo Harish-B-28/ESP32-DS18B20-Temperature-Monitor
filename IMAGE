@@ -1,1 +1,15 @@
-images/README.md
+## 📸 Hardware Setup
+
+![Hardware Setup](images/hardware_setup.jpg)
+
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](images/circuit_diagram.png)
+
+## 📱 Blynk Dashboard
+
+![Blynk Dashboard](images/blynk_dashboard.png)
+
+## 💻 Serial Monitor Output
+
+![Serial Monitor](images/serial_output.png)
