@@ -88,26 +88,6 @@ Temperature : 29.50 °C
 Temperature : 29.56 °C
 ```
 
----
-
-# 📸 Project Images
-
-Include the following images inside the **images** folder.
-
-## Hardware Setup
-
-![Hardware Setup](images/hardware_setup.jpg)
-
-## Circuit Diagram
-
-![Circuit Diagram](images/circuit_diagram.png)
-
-## Serial Monitor Output
-
-![Serial Output](images/serial_output.png)
-
----
-
 # 🎯 Applications
 
 * Smart Home Monitoring
