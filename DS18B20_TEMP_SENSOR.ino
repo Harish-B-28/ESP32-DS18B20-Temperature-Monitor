@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3uF7N_MHU"
+#define BLYNK_TEMPLATE_ID "TMPLxxxxxx"
 #define BLYNK_TEMPLATE_NAME "DS18B20 Temp Sensor"
-#define BLYNK_AUTH_TOKEN "sxrIK2VZkJUnXAsZiYWVzMOb7DOgmWs5"
+#define BLYNK_AUTH_TOKEN "Your_Blynk_Token_Here"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
@@ -8,8 +8,8 @@
 #include <DallasTemperature.h>
 
 // WiFi Credentials (Phone Hotspot)
-char ssid[] = "Airtel_Sneha";
-char pass[] = "Snehav_07031978";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "WIFI_PASSWORD";
 
 // DS18B20 connected to GPIO 25
 #define ONE_WIRE_BUS 25
